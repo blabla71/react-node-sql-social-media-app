@@ -1,1 +1,1 @@
-# nextjs-postgres-social-media-app
+# nextjs-node-postgres-social-media-app
