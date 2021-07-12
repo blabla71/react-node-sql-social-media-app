@@ -2,7 +2,7 @@
 ## a social media application built using <br>
 - client: react.js, <br>
 - server: nodejs, <br>
-- database: postgres <br>
+- database: sqlite3 <br>
 
 ## features of the application include:
 - user profile with a description and a photo
