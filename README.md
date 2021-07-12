@@ -1,10 +1,10 @@
-# react-node-postgres-social-media-app
+# 📦 react-node-postgres-social-media-app
 a social media application built using <br>
 - client: react.js, <br>
 - server: nodejs, <br>
 - database: postgres <br>
 
-features of the application include:
+## features of the application include:
 - user profile with a description and a photo
 - users following each other
 - suggestions for who to follow
