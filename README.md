@@ -1,4 +1,4 @@
-# nextjs-node-postgres-social-media-app
+# react-node-postgres-social-media-app
 a social media application built using <br>
 - clients: next.js, <br>
 - server: nodejs, <br>
